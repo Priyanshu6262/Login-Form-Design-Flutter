@@ -1,0 +1,88 @@
+{
+  "products" : [
+    {
+      "id": 1,
+      "name": "iPhone 13 pro",
+      "desc": "Apple iPhone 11 genration",
+      "price": 888,
+      "color": "#33505a",
+      "image":"https://cdn.shopify.com/s/files/1/0568/5942/7015/products/MNE23HN_A_1.png?v=1649050172"
+       
+    },
+    {
+      "id": 2,
+      "name": "iPhone 12 pro",
+      "desc": "Apple iPhone 10 genration",
+      "price": 555,
+      "color": "#33505a",
+      "image":"https://rukminim1.flixcart.com/image/416/416/kg8avm80/mobile/u/c/d/apple-iphone-12-pro-dummyapplefsn-original-imafwgbrzxg3nggd.jpeg?q=70"
+    },
+    {
+      "id": 3,
+      "name": "iPhone 11 pro max",
+      "desc": "Apple iPhone 10 genration",
+      "price": 500,
+      "color": "#33505a",
+      "image":"https://media.mobex.in/media/catalog/product/2/0/2021_11_3c31255l-900-1.webp?auto=webp&format=pjpg&width=960&height=1200&fit=cover"
+    },
+    {
+      "id": 4,
+      "name": "iPhone 10 pro max",
+      "desc": "Apple iPhone 9 genration",
+      "price": 400,
+      "color": "#33505a",
+      "image":"https://media.mobex.in/media/catalog/product/2/0/2021_12_refurb-iphone-11-pro-max-space-gray-2019.webp?auto=webp&format=pjpg&width=960&height=1200&fit=cover"
+       
+    },
+    {
+      "id": 5,
+      "name": "Poco m4 pro",
+      "desc": "poco 12 genration",
+      "price": 180,
+      "color": "#33505a",
+      "image":"https://m.media-amazon.com/images/I/61+OLKs47OL._SY550_.jpg"
+       
+    }, {
+      "id": 6,
+      "name": "Poco M2",
+      "desc": "poco 11 genration",
+      "price": 150,
+      "color": "#33505a",
+      "image":"https://m.media-amazon.com/images/I/61HmzZD3OGL._SY606_.jpg"
+       
+    }, {
+      "id": 7,
+      "name": "mi 5A",
+      "desc": "mi 9 genration",
+      "price": 90,
+      "color": "#33505a",
+      "image":"https://global.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1512007907.97238768.jpg"
+       
+    }, {
+      "id": 8,
+      "name": "Poco M4",
+      "desc": "poco 10 genration",
+      "price": 140,
+      "color": "#33505a",
+      "image":"https://rukminim1.flixcart.com/image/416/416/l2jcccw0/mobile/i/p/o/-original-imagdu8j9vxscfdh.jpeg?q=70"
+       
+    }, {
+      "id": 9,
+      "name": "Google pixel",
+      "desc": "google 12 genration",
+      "price": 400,
+      "color": "#33505a",
+      "image":"https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/b/p/s/-original-imaggsuemmztbghp.jpeg?q=70"
+       
+    }, {
+      "id": 10,
+      "name": "Poco M2 pro",
+      "desc": "poco 10 genration",
+      "price": 130,
+      "color": "#33505a",
+      "image":"https://cdn.shopify.com/s/files/1/0598/7919/4823/products/81w3UsCHEtL._SS640.jpg?v=1659785296"
+       
+    }
+
+  ]
+}
